@@ -1,48 +1,25 @@
-# L2‑Lab — Lucu‑Lucuan Lab
+# L2 Lab
 
-> Where SRE discipline meets mischievous engineering — enterprise‑grade reliability with weekend‑style curiosity.
+A playful open-source lab for practical tools, terminal apps, and engineering experiments.
 
----
+We build small, useful, and reliable software for everyday workflows. Some projects are polished utilities, some are learning experiments, and some are just fun ideas that turned into real tools.
 
-## About
+## Projects
 
-- L2‑Lab is the technical playground of two backend engineers who crossed into Site Reliability Engineering in enterprise environments.
-- We run focused experiments that explore reliability, scalability, and operability without sacrificing rigor.
-- Prototypes read like production: reproducible setups, measurable outcomes, and tidy code.
-- Think internal innovation lab: serious SRE discipline with room for playful ideas that teach real lessons.
+| Project | Description |
+|---|---|
+| [NoSleep CLI](https://github.com/L2-Lab-Lucu-lucuan-Lab/nosleep-cli) | Keep Windows awake from the terminal. |
+| [tada-rust](https://github.com/L2-Lab-Lucu-lucuan-Lab/tada-rust) | A terminal Qur'an reading and learning assistant. |
+| [kalender-cuti-calculator](https://github.com/L2-Lab-Lucu-lucuan-Lab/kalender-cuti-calculator) | A web tool for planning leave and working days. |
 
-## Focus Areas
+## Principles
 
-- Distributed Systems — concurrency, consensus, and services that fail gracefully
-- Reliability Engineering — SLOs, error budgets, incident hygiene, and failure prevention
-- Observability — metrics, tracing, logging, profiling, and actionable telemetry
-- Automation — GitOps, pipelines, infrastructure‑as‑code, and sealed runbooks
-- Chaos Testing — fault injection, failure modes, and game‑day drills
-- Performance — latency, throughput, tail analysis, and capacity planning
+- Simple to use
+- Easy to run locally
+- Clear documentation
+- Practical before clever
+- Fun to build and maintain
 
-## Tech Stack
+## Contributing
 
-- Go
-- Node.js
-- Docker
-- Kubernetes
-- Redis
-- Kafka
-- CI/CD
-- Linux
-
-## Philosophy / Engineering Principles
-
-- Automate everything
-- Measure first
-- Break safely
-- Learn deeply
-- Prefer simplicity over cleverness
-- Make reliability user‑visible (SLOs > vibes)
-- Small changes, fast feedback
-- Reproduce before you optimize
-
----
-
-“Build like a production SRE, play like a weekend hacker.”
-
+Issues, ideas, bug reports, and pull requests are welcome.
