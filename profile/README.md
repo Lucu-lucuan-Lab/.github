@@ -8,9 +8,10 @@ We build small, useful, and reliable software for everyday workflows. Some proje
 
 | Project | Description |
 |---|---|
-| [NoSleep CLI](https://github.com/L2-Lab-Lucu-lucuan-Lab/nosleep-cli) | Keep Windows awake from the terminal. |
-| [tada-rust](https://github.com/L2-Lab-Lucu-lucuan-Lab/tada-rust) | A terminal Qur'an reading and learning assistant. |
-| [kalender-cuti-calculator](https://github.com/L2-Lab-Lucu-lucuan-Lab/kalender-cuti-calculator) | A web tool for planning leave and working days. |
+| [DaysOff](https://github.com/L2-Lab-Lucu-lucuan-Lab/kalender-cuti-calculator) | A simple web tool for planning days off, holidays, and working days. |
+| [NoSleep CLI](https://github.com/L2-Lab-Lucu-lucuan-Lab/nosleep-cli) | A lightweight Windows CLI to keep your system and display awake for a set duration. |
+| [TadaRust](https://github.com/L2-Lab-Lucu-lucuan-Lab/tada-rust) | An interactive Rust-powered CLI for reading, exploring, and learning the Qur'an from your terminal. |
+
 
 ## Principles
 
