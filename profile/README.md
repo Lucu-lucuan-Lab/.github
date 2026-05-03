@@ -8,9 +8,10 @@ We build small, useful, and reliable software for everyday workflows. Some proje
 
 | Project | Description |
 |---|---|
-| [DaysOff](https://github.com/L2-Lab-Lucu-lucuan-Lab/kalender-cuti-calculator) | A simple web tool for planning days off, holidays, and working days. |
+| [DaysOff](https://github.com/Lucu-lucuan-Lab/daysoff) | A simple web tool for planning days off, holidays, and working days. |
 | [NoSleep CLI](https://github.com/L2-Lab-Lucu-lucuan-Lab/nosleep-cli) | A lightweight Windows CLI to keep your system and display awake for a set duration. |
 | [TadaRust](https://github.com/L2-Lab-Lucu-lucuan-Lab/tada-rust) | An interactive Rust-powered CLI for reading, exploring, and learning the Qur'an from your terminal. |
+| [NoLife CLI](https://github.com/Lucu-lucuan-Lab/nolife-cli) | An interactive CLI that cuts through ad-walls to batch-download anime seamlessly. |
 
 
 ## Principles
